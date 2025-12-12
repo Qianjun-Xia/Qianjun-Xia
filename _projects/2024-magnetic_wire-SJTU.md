@@ -1,5 +1,5 @@
 ---
-title: "Design and Development of a Hard-Magnetic Actuated Vascular Interventional Guidewire Robot (In Submission)"
+title: "Magnetic Actuated Vascular Guidewire Robot with Cosserat-Rod Modeling (To be Submitted)"
 collection: projects
 permalink: /projects/magnetic_wire/
 # date: 2025-11-24
